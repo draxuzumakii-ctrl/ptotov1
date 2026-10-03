@@ -1,0 +1,1 @@
+Project entries are in `data/projects.json`. The current artwork is generated with CSS, not presented as client work or photography. To use a real image, set the entry's `image` to an optimized image path; the same project layout will use it automatically. Replace the sample concepts and their details with your own work before publishing.

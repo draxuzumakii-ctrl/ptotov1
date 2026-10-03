@@ -1,0 +1,50 @@
+[
+  {
+    "number": "01",
+    "title": "Quiet Form",
+    "category": "WEB DESIGN",
+    "filters": ["web", "design"],
+    "year": "2026",
+    "description": "A small interface study about making room for a slower kind of browsing.",
+    "role": "Independent concept · design and front-end exploration",
+    "tools": "HTML · CSS · JavaScript",
+    "process": "A personal concept, made to explore type, restraint, and how an interface can feel welcoming without asking for attention.",
+    "result": "An ongoing study in clear structure and softer details.",
+    "visual": "paper",
+    "image": "",
+    "url": "#",
+    "status": "CONCEPT"
+  },
+  {
+    "number": "02",
+    "title": "Afterlight",
+    "category": "VISUAL EXPERIMENT",
+    "filters": ["ai", "experiment", "design"],
+    "year": "2026",
+    "description": "A digital field note on atmosphere, ambient light, and the last few minutes of a day.",
+    "role": "Personal experiment · art direction and interaction",
+    "tools": "Figma · HTML · CSS",
+    "process": "Started with a feeling rather than a feature list. The visual language stays quiet so the details can do the talking.",
+    "result": "A work in progress. The best part is seeing what it becomes with time.",
+    "visual": "night",
+    "image": "",
+    "url": "#",
+    "status": "EXPERIMENT"
+  },
+  {
+    "number": "03",
+    "title": "Little Moving Things",
+    "category": "VIDEO / EDIT",
+    "filters": ["video", "experiment"],
+    "year": "2026",
+    "description": "A place for short edits, visual notes, and the things I’m learning between cuts.",
+    "role": "Personal practice · filming and editing",
+    "tools": "Camera / phone · video editor",
+    "process": "Collect small moments, find a rhythm in the edit, and let the imperfect bits stay human.",
+    "result": "An archive in progress — footage and final edits will find their way here.",
+    "visual": "default",
+    "image": "",
+    "url": "#",
+    "status": "IN PROGRESS"
+  }
+]

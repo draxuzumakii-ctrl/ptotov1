@@ -1,0 +1,1 @@
+Replace these clearly labelled CSS placeholders by putting your own photographs in this folder and setting each `image` field in `data/photography.json` to its path. Optional metadata fields (`year`, `location`, `device`, `camera`, `lens`) are intentionally blank until you can add accurate details. Keep images web-optimized (WebP or AVIF is ideal); the gallery lazy-loads them.
