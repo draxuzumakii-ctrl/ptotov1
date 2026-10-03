@@ -1,0 +1,7 @@
+[
+  {"number":"001","title":"A quieter portfolio layout","detail":"Trying editorial type with a little more breathing room.","status":"EXPERIMENTING","idea":"How little can an interface say and still feel personal?"},
+  {"number":"002","title":"A tiny photo archive","detail":"Making a few images feel like enough.","status":"BUILDING","idea":"Could browsing photographs feel more like looking through a notebook?"},
+  {"number":"003","title":"ESP8266 notes","detail":"Small hardware experiments, still figuring out the wiring.","status":"UNFINISHED","idea":"A small sensor that tells me something useful, without a screen."},
+  {"number":"004","title":"Cursor as a whisper","detail":"A small interaction, only where it makes sense.","status":"TESTING","idea":"Can a custom cursor give useful context without getting in the way?"},
+  {"number":"005","title":"Prompts that get me unstuck","detail":"AI as a creative partner, not autopilot.","status":"ONGOING","idea":"What happens when the first answer is only a starting point?"}
+]

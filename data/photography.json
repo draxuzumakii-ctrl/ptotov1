@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Light finding a way in",
+    "caption": "Somewhere between afternoon and evening.",
+    "year": "",
+    "location": "",
+    "device": "",
+    "camera": "",
+    "lens": "",
+    "image": "",
+    "scene": "scene-window",
+    "alt": "Placeholder for an observational photograph of light falling across a room."
+  },
+  {
+    "title": "A little space in the sky",
+    "caption": "A reminder to look up on the way home.",
+    "year": "",
+    "location": "",
+    "device": "",
+    "camera": "",
+    "lens": "",
+    "image": "",
+    "scene": "scene-sky",
+    "alt": "Placeholder for a photograph of a quiet evening sky."
+  },
+  {
+    "title": "The shape of a shadow",
+    "caption": "Nothing special. That’s kind of the point.",
+    "year": "",
+    "location": "",
+    "device": "",
+    "camera": "",
+    "lens": "",
+    "image": "",
+    "scene": "scene-shadow",
+    "alt": "Placeholder for a photograph noticing the shape of a shadow."
+  },
+  {
+    "title": "On the way somewhere",
+    "caption": "A small moment from an ordinary walk.",
+    "year": "",
+    "location": "",
+    "device": "",
+    "camera": "",
+    "lens": "",
+    "image": "",
+    "scene": "scene-street",
+    "alt": "Placeholder for an observational street photograph."
+  }
+]
